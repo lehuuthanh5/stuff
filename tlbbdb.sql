@@ -13,7 +13,8 @@
 
  Date: 01/04/2020 21:12:49
 */
-
+CREATE SCHEMA tlbbdb;
+USE tlbbdb;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
