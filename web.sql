@@ -13,7 +13,8 @@
 
  Date: 01/04/2020 21:11:42
 */
-
+CREATE SCHEMA web;
+USE web;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
